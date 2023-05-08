@@ -10,7 +10,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/08/2023 16:14:17",
+  "HeaderLastSavedDateTimeUTC": "05/08/2023 16:16:18",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "1e6c8e00-6f9a-4641-a1cc-3b16615d6eb6": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/655a76787f414905b5622fa6538a7ad1\""
@@ -70,7 +70,7 @@
   "PublishOrderIndices": {
     "App": 0,
     "BadgeCanvas1": 0,
-    "BadgeCanvas1_1": 0,
+    "BadgeCanvas1_1": 1,
     "Host": 0,
     "Screen1": 0
   },
