@@ -75,5 +75,6 @@ Screen1 As screen:
     Image2 As image:
         Height: =79
         Width: =306
+        X: =1060
         ZIndex: =2
 
