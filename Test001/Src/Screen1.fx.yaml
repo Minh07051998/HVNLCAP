@@ -9,8 +9,8 @@ Screen1 As screen:
         TemplatePadding: =0
         TemplateSize: =Min(160, Self.Height - 60)
         Width: =616
-        X: =172
-        Y: =320
+        X: =358
+        Y: =278
         ZIndex: =1
 
         Image1 As image:
@@ -75,7 +75,6 @@ Screen1 As screen:
     Image2 As image:
         Height: =203
         Width: =131
-        X: =766
-        Y: =100
+        X: =670
         ZIndex: =2
 
