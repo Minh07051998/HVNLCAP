@@ -2,13 +2,13 @@ Screen1 As screen:
 
     "Gallery1 As gallery.'BrowseLayout_Vertical_TwoTextOneImageVariant_ver4.0'":
         DelayItemLoading: =true
-        Height: =199
+        Height: =490
         Items: =CustomGallerySample
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
         TemplatePadding: =0
         TemplateSize: =Min(160, Self.Height - 60)
-        Width: =1194
+        Width: =616
         X: =40
         Y: =40
         ZIndex: =1
@@ -75,7 +75,7 @@ Screen1 As screen:
     Image2 As image:
         Height: =203
         Width: =600
-        X: =230
-        Y: =470
+        X: =766
+        Y: =100
         ZIndex: =2
 
