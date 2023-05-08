@@ -1,0 +1,11 @@
+Screen1 As screen:
+
+    BadgeCanvas1 As Badge:
+        Content: =Office365Users.
+        DisplayMode: =DisplayMode.Edit
+        Height: =68
+        Width: =68
+        X: =40
+        Y: =30
+        ZIndex: =1
+
