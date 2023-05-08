@@ -1,22 +1,9 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Button1": 17,
-    "Button2": 19,
-    "DatePicker1": 16,
-    "Host": 3,
-    "Image2": 12,
-    "Label1": 15,
-    "Label2": 18,
-    "Rectangle1": 14,
-    "Screen1": 4,
-    "Screen2": 13
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/08/2023 16:50:43",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -24,66 +11,16 @@
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "CustomGallerySample": 0
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "button": 4,
-    "datepicker": 3,
-    "image": 0,
-    "label": 2,
-    "rectangle": 1
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "Button1": {},
-    "Button2": {},
-    "DatePicker1": {},
-    "Host": {},
-    "Image2": {},
-    "Label1": {},
-    "Label2": {},
-    "Rectangle1": {},
-    "Screen1": {},
-    "Screen2": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "Button1": 16,
-    "Button2": 18,
-    "DatePicker1": 15,
-    "Host": 0,
-    "Image2": 5,
-    "Label1": 14,
-    "Label2": 17,
-    "Rectangle1": 13,
-    "Screen1": 3,
-    "Screen2": 12
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0410168,
-    "ControlCount": {
-      "button": 2,
-      "datepicker": 1,
-      "gallery": 1,
-      "galleryTemplate": 1,
-      "icon": 1,
-      "image": 2,
-      "label": 4,
-      "rectangle": 2,
-      "screen": 2
-    },
-    "DeserializationLoadTime": 0.3114253
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
