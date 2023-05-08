@@ -34,3 +34,11 @@ Screen2 As screen:
         Y: =260
         ZIndex: =6
 
+    Icon1 As icon.Airplane:
+        Height: =122
+        Icon: =Icon.Airplane
+        Width: =137
+        X: =1155
+        Y: =535
+        ZIndex: =7
+
