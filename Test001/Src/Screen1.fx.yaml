@@ -8,7 +8,7 @@ Screen1 As screen:
         LoadingSpinner: =LoadingSpinner.Data
         TemplatePadding: =0
         TemplateSize: =Min(160, Self.Height - 60)
-        Width: =616
+        Width: =1210
         X: =358
         Y: =278
         ZIndex: =1
@@ -73,8 +73,8 @@ Screen1 As screen:
             ZIndex: =5
 
     Image2 As image:
-        Height: =203
-        Width: =131
+        Height: =79
+        Width: =306
         X: =670
         ZIndex: =2
 
