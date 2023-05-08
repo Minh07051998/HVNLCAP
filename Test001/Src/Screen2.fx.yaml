@@ -18,7 +18,7 @@ Screen2 As screen:
 
     Button1 As button:
         Text: ="Button"
-        X: =160
+        X: =1155
         Y: =425
         ZIndex: =4
 
@@ -30,8 +30,8 @@ Screen2 As screen:
 
     Button2 As button:
         Text: ="Button"
-        X: =692
-        Y: =260
+        X: =1155
+        Y: =308
         ZIndex: =6
 
     Icon1 As icon.Airplane:
